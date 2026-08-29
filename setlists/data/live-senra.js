@@ -444,7 +444,7 @@ addLiveTour(
 
 
 
-addSetlist(
+addLiveTour(
   "センラ",
   "2018",
   "SENRA LIVE TOUR  S STILO!!!：RE", [
