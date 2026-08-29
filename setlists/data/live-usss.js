@@ -1,5 +1,651 @@
 addLiveTour(
   "浦島坂田船",
+  "2015",
+  "浦島坂田船ライブツアー -Listen to my voice-",
+  [
+{
+  date: "8月1日",
+  place: "東京・TSUTAYA O-WEST",
+  songs: [
+
+  ]
+},
+{
+  date: "8月9日",
+  place: "大阪・BIGCAT",
+  songs: [
+
+  ]
+},
+{
+  date: "9月12日",
+  place: "名古屋・CLUB QUATTRO",
+  songs: [
+
+  ]
+},
+{
+  date: "9月21日",
+  place: "東京・TSUTAYA O-EAST",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2016",
+  "浦島坂田船 SUMMER TOUR 2016 -CRUISE PARTY-",
+  [
+{
+  date: "7月3日",
+  place: "大阪・Zepp Namba",
+  songs: [
+
+  ]
+},
+{
+  date: "7月10日",
+  place: "東京・TSUTAYA O-EAST",
+  songs: [
+
+  ]
+},
+{
+  date: "7月30日",
+  place: "愛知・Zepp Nagoya",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2016",
+  "浦島坂田船 SUMMER TOUR 2016 -CRUISE LIVE-",
+  [
+{
+  date: "7月31日",
+  place: "岡山・CRAZYMAMA KINGDOM",
+  songs: [
+
+  ]
+},
+{
+  date: "8月20日",
+  place: "新潟・LOTS",
+  songs: [
+
+  ]
+},
+{
+  date: "8月21日",
+  place: "宮城・チームスマイル・仙台PIT",
+  songs: [
+
+  ]
+},
+{
+  date: "8月27日",
+  place: "京都・KYOTO MUSE",
+  songs: [
+
+  ]
+},
+{
+  date: "8月28日",
+  place: "福岡・BEAT STATION",
+  songs: [
+
+  ]
+},
+{
+  date: "9月3日",
+  place: "静岡・SOUND SHOWER ark",
+  songs: [
+
+  ]
+},
+{
+  date: "9月17日",
+  place: "東京・ディファ有明",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2016",
+  "浦島坂田船　台湾公演",
+  [
+{
+  date: "11月19日",
+  place: "台湾・花漾Hana展演空間",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2017",
+  "浦島坂田船 SPRING TOUR 2017 -春の宴-",
+  [
+{
+  date: "3月4日",
+  place: "大阪・Zepp Namba",
+  songs: [
+
+  ]
+},
+{
+  date: "3月5日",
+  place: "大阪・Zepp Namba",
+  songs: [
+
+  ]
+},
+{
+  date: "3月12日",
+  place: "東京・チームスマイル・豊洲PIT",
+  songs: [
+
+  ]
+},
+{
+  date: "3月18日",
+  place: "愛知・名古屋DIAMOND HALL",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2017",
+  "浦島坂田船 SUMMER TOUR 2017 Beyond The Compass -BAND Edition-",
+  [
+{
+  date: "7月30日",
+  place: "宮城・チームスマイル・仙台PIT",
+  songs: [
+
+  ]
+},
+{
+  date: "8月3日",
+  place: "東京・新木場Studio Coast",
+  songs: [
+
+  ]
+},
+{
+  date: "8月19日",
+  place: "大阪・Zepp Osaka Bayside",
+  songs: [
+
+  ]
+},
+{
+  date: "8月20日",
+  place: "愛知・Zepp Nagoya",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2017",
+  "浦島坂田船 SUMMER TOUR 2017 Beyond The Compass -DJ Edition-",
+  [
+{
+  date: "7月22日",
+  place: "高知・キャラバンサライ",
+  songs: [
+
+  ]
+},
+{
+  date: "7月23日",
+  place: "香川・高松festhalle",
+  songs: [
+
+  ]
+},
+{
+  date: "7月29日",
+  place: "青森・Quarter",
+  songs: [
+
+  ]
+},
+{
+  date: "8月26日",
+  place: "広島・CLUB QUATTRO",
+  songs: [
+
+  ]
+},
+{
+  date: "8月27日",
+  place: "福岡・DRUM LOGOS",
+  songs: [
+
+  ]
+},
+{
+  date: "9月3日",
+  place: "北海道・札幌ペニーレーン24",
+  songs: [
+
+  ]
+},
+{
+  date: "9月16日",
+  place: "石川・金沢Eight Hall",
+  songs: [
+
+  ]
+},
+{
+  date: "9月17日",
+  place: "福井・響のホール",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2018",
+  "浦島坂田船 Spring Tour 2018 桜吹雪で乱de舞！",
+  [
+{
+  date: "3月4日",
+  place: "北海道・Zepp Sapporo",
+  songs: [
+
+  ]
+},
+{
+  date: "3月10日",
+  place: "広島・BLUE LIVE HIROSHIMA",
+  songs: [
+
+  ]
+},
+{
+  date: "3月11日",
+  place: "福岡・DRUM LOGOS",
+  songs: [
+
+  ]
+},
+{
+  date: "3月17日",
+  place: "大阪・Zepp Osaka Bayside",
+  songs: [
+
+  ]
+},
+{
+  date: "3月22日",
+  place: "愛知・Zepp Nagoya",
+  songs: [
+
+  ]
+},
+{
+  date: "3月31日",
+  place: "東京・Zepp DiverCity(TOKYO)",
+  songs: [
+
+  ]
+},
+{
+  date: "4月5日",
+  place: "東京・Zepp Tokyo",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2018",
+  "浦島坂田船 SUMMER TOUR 2018 俺SUMMERと、宇CHU♥旅行♥",
+  [
+{
+  date: "7月7日",
+  place: "福井・響のホール",
+  songs: [
+
+  ]
+},
+{
+  date: "7月8日",
+  place: "石川・金沢EightHall",
+  songs: [
+
+  ]
+},
+{
+  date: "8月4日",
+  place: "京都・FAN J",
+  songs: [
+
+  ]
+},
+{
+  date: "8月5日",
+  place: "福岡・DRUM LOGOS",
+  songs: [
+
+  ]
+},
+{
+  date: "7月14日",
+  place: "大阪・Zepp Namba",
+  songs: [
+
+  ]
+},
+{
+  date: "7月15日",
+  place: "大阪・Zepp Namba",
+  songs: [
+
+  ]
+},
+{
+  date: "7月26日",
+  place: "愛知・Zepp Nagoya",
+  songs: [
+
+  ]
+},
+{
+  date: "8月18日",
+  place: "宮城・チームスマイル・仙台PIT",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2018",
+  "浦島坂田船 5th Anniversary 熱♡CHU♡宙♡ 俺SUMMERと、宇CHU♡旅行♡",
+  [
+{
+  date: "7月30日",
+  place: "東京・日本武道館",
+  songs: [
+
+  ]
+},
+{
+  date: "7月31日",
+  place: "東京・日本武道館",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2019",
+  "浦島坂田船 Spring Tour 2019 -斬（ZAN）-",
+  [
+{
+  date: "3月9日",
+  place: "兵庫・神戸ワールド記念ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "3月10日",
+  place: "兵庫・神戸ワールド記念ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "3月23日",
+  place: "愛知・Zepp Nagoya",
+  songs: [
+
+  ]
+},
+{
+  date: "3月25日",
+  place: "福岡・Zepp Fukuoka",
+  songs: [
+
+  ]
+},
+{
+  date: "3月30日",
+  place: "北海道・Zepp Sapporo",
+  songs: [
+
+  ]
+},
+{
+  date: "4月3日",
+  place: "東京・両国国技館",
+  songs: [
+
+  ]
+},
+{
+  date: "4月4日",
+  place: "東京・両国国技館",
+  songs: [
+["花鳥風月", "浦島坂田船", "カチョウフウゲツ"],
+["千本桜 -guitar rock arrangement-", "浦島坂田船", "センボンザクラギターロックアレンジメント"],
+["虎視眈々", "浦島坂田船", "コシタンタン"],
+["百花繚乱", "浦島坂田船", "ヒャッカリョウラン"],
+["吉原ラメント", "浦島坂田船", "ヨシワララメント"],
+["やっぱ最強！", "うらさか", "ヤッパサイキョウ"],
+["ジグソーパズル", "志麻セン", "ジグソーパズル"],
+["誠 -Live for Justice-", "浦島坂田船", "マコトライブフォージャスティス"],
+["スパイラル", "センラ", "スパイラル"],
+["セクトの誅罰", "うらたぬき", "セクトノチュウバツ"],
+["ボードゲームライフ", "志麻", "ボードゲームライフ"],
+["ねぇ、どろどろさん", "となりの坂田。", "ネェドロドロサン"],
+["神のまにまに", "浦島坂田船", "カミノマニマニ"],
+["小さなライオン", "浦島坂田船", "チイサナライオン"],
+["Sailor's High", "浦島坂田船", "セイラーズハイ"],
+["わいふぁい暴想ボーイ", "浦島坂田船", "ワイファイボウソウボーイ"],
+["Peacock Epoch", "浦島坂田船", "ピーコックエポック"],
+["合戦", "浦島坂田船", "カッセン"],
+["そらに、ひらり", "浦島坂田船", "ソラニヒラリ"],
+["Shouter", "浦島坂田船", "シャウター"],
+["SAILING!!!!!", "浦島坂田船", "セイリング"],
+  ]
+    }
+  ]
+);
+
+addLiveTour(
+  "浦島坂田船",
+  "2019",
+  "浦島坂田船 SUMMER TOUR 2019 -浦島theカジノ船　俺たち愛＄、今夜お前とBETイン-",
+  [
+{
+  date: "7月13日",
+  place: "東京・オリンパスホール八王子",
+  songs: [
+
+  ]
+},
+{
+  date: "7月20日",
+  place: "静岡・静岡市民文化会館 大ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "7月21日",
+  place: "愛知・名古屋国際会議場センチュリーホール",
+  songs: [
+
+  ]
+},
+{
+  date: "7月27日",
+  place: "石川・本多の森ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "7月28日",
+  place: "富山・富山オーバード・ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "7月31日",
+  place: "神奈川・パシフィコ横浜 国立大ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "8月1日",
+  place: "神奈川・パシフィコ横浜 国立大ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "8月3日",
+  place: "広島・広島文化学園HBGホール",
+  songs: [
+
+  ]
+},
+{
+  date: "8月4日",
+  place: "香川・サンポートホール高松 大ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "8月17日",
+  place: "福島・けんしん郡山文化センター 大ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "8月18日",
+  place: "宮城・仙台サンプラザホール",
+  songs: [
+
+  ]
+},
+{
+  date: "8月20日",
+  place: "大阪・大阪城ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "8月24日",
+  place: "熊本・市民会館シアーズホーム夢ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "8月25日",
+  place: "福岡・福岡サンパレス",
+  songs: [
+
+  ]
+},
+{
+  date: "8月27日",
+  place: "高知・高知市文化プラザかるぽーと",
+  songs: [
+
+  ]
+},
+{
+  date: "9月1日",
+  place: "北海道・札幌文化芸術劇場 hitaru",
+  songs: [
+
+  ]
+},
+{
+  date: "9月14日",
+  place: "大阪・大阪国際会議場グランキューブ大阪メインホール",
+  songs: [
+
+  ]
+},
+{
+  date: "9月15日",
+  place: "大阪・大阪国際会議場グランキューブ大阪メインホール",
+  songs: [
+
+  ]
+},
+{
+  date: "10月5日",
+  place: "千葉・幕張メッセ国際展示場1・2・3ホール",
+  songs: [
+
+  ]
+},
+{
+  date: "10月6日",
+  place: "千葉・幕張メッセ国際展示場1・2・3ホール",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+
+
+
+
+
+addLiveTour(
+  "浦島坂田船",
   "2018",
   "浦島坂田船 Spring Tour 2018 ～桜吹雪で乱de舞！～",
   [
@@ -252,40 +898,6 @@ addLiveTour(
 
 
 
-addLiveTour(
-  "浦島坂田船",
-  "2019",
-  "浦島坂田船 Spring Tour 2019 ―斬（ZAN）―",
-  [
-    {
-      date: "4月4日",
-      place: "東京・両国国技館 ",
-      songs: [
-["花鳥風月", "浦島坂田船", "カチョウフウゲツ"],
-["千本桜 -guitar rock arrangement-", "浦島坂田船", "センボンザクラギターロックアレンジメント"],
-["虎視眈々", "浦島坂田船", "コシタンタン"],
-["百花繚乱", "浦島坂田船", "ヒャッカリョウラン"],
-["吉原ラメント", "浦島坂田船", "ヨシワララメント"],
-["やっぱ最強！", "うらさか", "ヤッパサイキョウ"],
-["ジグソーパズル", "志麻セン", "ジグソーパズル"],
-["誠 -Live for Justice-", "浦島坂田船", "マコトライブフォージャスティス"],
-["スパイラル", "センラ", "スパイラル"],
-["セクトの誅罰", "うらたぬき", "セクトノチュウバツ"],
-["ボードゲームライフ", "志麻", "ボードゲームライフ"],
-["ねぇ、どろどろさん", "となりの坂田。", "ネェドロドロサン"],
-["神のまにまに", "浦島坂田船", "カミノマニマニ"],
-["小さなライオン", "浦島坂田船", "チイサナライオン"],
-["Sailor's High", "浦島坂田船", "セイラーズハイ"],
-["わいふぁい暴想ボーイ", "浦島坂田船", "ワイファイボウソウボーイ"],
-["Peacock Epoch", "浦島坂田船", "ピーコックエポック"],
-["合戦", "浦島坂田船", "カッセン"],
-["そらに、ひらり", "浦島坂田船", "ソラニヒラリ"],
-["Shouter", "浦島坂田船", "シャウター"],
-["SAILING!!!!!", "浦島坂田船", "セイリング"],
-       ]
-    }
-  ]
-);
 
 
 
