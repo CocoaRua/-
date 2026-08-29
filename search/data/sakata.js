@@ -1,5 +1,5 @@
 addSetlist(
-  "あほの/となりの坂田。",
+  "あほの坂田。/となりの坂田。",
   "2026",
   "AHO NO SAKATA LIVE TOUR 2026 -STAR [T] RAIL-", [
 ["STAR TRAIN","","スタートレイン"],
@@ -30,7 +30,7 @@ addSetlist(
 
 
 addSetlist(
-  "あほの/となりの坂田。",
+  "あほの坂田。/となりの坂田。",
   "2025",
   "AHO NO SAKATA LIVE TOUR 2025 -Nurse-", [
 ["So happy!!!","","ソーハッピー"],
@@ -61,7 +61,7 @@ addSetlist(
 
 
 addSetlist(
-  "あほの/となりの坂田。",
+  "あほの坂田。/となりの坂田。",
   "2024",
   " AHO NO SAKATA 15th ANNIVERSARY TOUR -HERO-", [
 ["ぽんこつレッド", "", "ポンコツレッド"],
@@ -96,7 +96,7 @@ addSetlist(
 
 
 addSetlist(
-  "あほの/となりの坂田。",
+  "あほの坂田。/となりの坂田。",
   "2023",
   "AHO NO SAKATA LIVE TOUR 2023 -Home-", [
     ["リビングハート", "", "リビングハート"],
