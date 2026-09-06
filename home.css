@@ -86,6 +86,78 @@ body {
   margin-top: 0;
 }
 
+```css
+/* =========================
+   NEWS
+========================= */
+
+.news {
+  margin-bottom: 35px;
+  padding: 20px 25px;
+
+  background: #edf8fd;
+  border: 2px solid #b8ddeb;
+  border-radius: 18px;
+}
+
+.news h2 {
+  margin: 0 0 15px;
+  color: #4387ad;
+  font-size: 24px;
+}
+
+.news-list {
+  padding: 5px 15px;
+  background: white;
+  border-radius: 12px;
+}
+
+.news-item {
+  display: flex;
+  gap: 20px;
+  padding: 12px 5px;
+
+  border-bottom: 1px solid #dceff8;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  flex-shrink: 0;
+  color: #4387ad;
+  font-weight: bold;
+}
+
+.news-text {
+  color: #333;
+}
+
+
+/* スマートフォン対応 */
+@media screen and (max-width: 700px) {
+
+  .news {
+    padding: 18px;
+  }
+
+  .news-item {
+    gap: 10px;
+  }
+
+  .news-date {
+    font-size: 14px;
+  }
+
+  .news-text {
+    font-size: 14px;
+  }
+
+}
+```
+
+
 
 /* =========================
    スマートフォン対応
