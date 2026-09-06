@@ -1,3 +1,116 @@
+
+
+
+
+
+
+
+
+addLiveTour(
+  "センラ",
+  "2021",
+  "SENRA LIVE TOUR 2021 -À la mode-",
+  [
+{
+  date: "11月11日",
+  place: "愛知・Zepp Nagoya",
+  songs: [
+
+  ]
+},
+{
+  date: "11月13日",
+  place: "宮城・SENDAI GIGS",
+  songs: [
+
+  ]
+},
+{
+  date: "11月16日",
+  place: "北海道・Zepp Sapporo",
+  songs: [
+
+  ]
+},
+{
+  date: "11月23日 昼の部",
+  place: "東京・Zepp Tokyo",
+  songs: [
+
+  ]
+},
+{
+  date: "11月23日 夜の部",
+  place: "東京・Zepp Tokyo",
+  songs: [
+
+  ]
+},
+{
+  date: "11月27日",
+  place: "福岡・Zepp Fukuoka",
+  songs: [
+
+  ]
+},
+{
+  date: "11月28日",
+  place: "大阪・Zepp Namba(OSAKA)",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+
+
+
+
+addLiveTour(
+  "センラ",
+  "2019",
+  "SENRA LIVE TOUR 2019 -Lüge-",
+  [
+{
+  date: "11月9日",
+  place: "大阪・Zepp Osaka Bayside",
+  songs: [
+
+  ]
+},
+{
+  date: "11月10日",
+  place: "愛知・Zepp Nagoya",
+  songs: [
+
+  ]
+},
+{
+  date: "11月17日",
+  place: "東京・Zepp Tokyo",
+  songs: [
+
+  ]
+},
+{
+  date: "11月23日",
+  place: "福岡・Zepp Fukuoka",
+  songs: [
+
+  ]
+    }
+  ]
+);
+
+
+
+
+
+
+
+
+
 addLiveTour(
   "センラ",
   "2025",
