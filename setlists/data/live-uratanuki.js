@@ -1,5 +1,5 @@
 addLiveTour(
-  "浦島坂田船",
+  "うらたぬき",
   "2026",
   "Uratanuki Birthday Live 2026 -Black Rose-",
   [
